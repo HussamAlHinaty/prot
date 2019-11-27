@@ -1,0 +1,55 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1574851967648' stop='1574851985192'>
+    <name>Protractor Demo</name>
+    <title>Protractor Demo</title>
+    <test-cases>
+        <test-case start='1574851967648' status='passed' stop='1574851976854'>
+            <name>check #no of history</name>
+            <title>check #no of history</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1574851976854' status='passed' stop='1574851979406'>
+            <name>Check toContain method</name>
+            <title>Check toContain method</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1574851979406' status='passed' stop='1574851979809'>
+            <name>Check the page title</name>
+            <title>Check the page title</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1574851979809' status='passed' stop='1574851982265'>
+            <name>should add one and two</name>
+            <title>should add one and two</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1574851982265' status='passed' stop='1574851984734'>
+            <name>should add four and six</name>
+            <title>should add four and six</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1574851984734' status='passed' stop='1574851985192'>
+            <name>should read the value from an input</name>
+            <title>should read the value from an input</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

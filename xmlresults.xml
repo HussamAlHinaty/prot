@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites disabled="0" errors="0" failures="1" tests="6" time="17.431">
+ <testsuite name="Protractor Demo" timestamp="2019-11-27T13:06:12" hostname="localhost" time="17.431" errors="0" tests="6" skipped="0" disabled="0" failures="1">
+  <testcase classname="Protractor Demo" name="check #no of history" time="9.049" />
+  <testcase classname="Protractor Demo" name="Check toContain method" time="2.55" />
+  <testcase classname="Protractor Demo" name="Check the page title" time="0.413" />
+  <testcase classname="Protractor Demo" name="should add one and two" time="2.497">
+   <failure type="toEqual" message="Expected &apos;3&apos; to equal &apos;5&apos;."><![CDATA[Error: Failed expectation
+    at UserContext.<anonymous> (/home/forbesdev/Downloads/exercise/localPage/ProtractorDemo/spec.js:48:38)
+    at /usr/local/lib/node_modules/protractor/node_modules/jasminewd2/index.js:112:25
+    at new ManagedPromise (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:1077:7)
+    at ControlFlow.promise (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2505:12)
+    at schedulerExecute (/usr/local/lib/node_modules/protractor/node_modules/jasminewd2/index.js:95:18)
+    at TaskQueue.execute_ (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:3084:14)
+    at TaskQueue.executeNext_ (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:3067:27)
+    at asyncRun (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2974:25)
+    at /usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:668:7]]>
+   </failure>
+  </testcase>
+  <testcase classname="Protractor Demo" name="should add four and six" time="2.457" />
+  <testcase classname="Protractor Demo" name="should read the value from an input" time="0.459" />
+ </testsuite>
+</testsuites>
