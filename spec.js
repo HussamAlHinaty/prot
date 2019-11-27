@@ -45,7 +45,7 @@ describe('Protractor Demo', function() {
      
          goButton.click();
      
-         expect(expResult.getText()).toEqual('5');
+         expect(expResult.getText()).toEqual('3');
        });
 
        it('should add four and six', function() {
